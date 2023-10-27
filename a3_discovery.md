@@ -6,58 +6,60 @@ sfaza339
 
 ## A brief description of how you approached this discovery.
 
-My approach was to start with trying all possibilities of the switches being A, B, A and B, and neither A or B. I then disscovered that there are 3 different title name types that can be given. I later played around with the slider trying out all the numbers between 1-100. My observations were that there was a set of consecutive numbers that have the same image, name, and title displayed. As I observed changes, I described it in the third part of this assignment. 
+My approach was to start with trying all possibilities of the switches being A, B, A, and B, and neither A nor B. I then discovered that 3 different title name types can be given. I later played around with the slider trying out all the numbers between 1-100. My observations were that there was a set of consecutive numbers that had the same image, name, and title displayed. As I observed changes, I described them in the third part of this assignment. 
 
 ## A detailed description of the website behaviour. What does the setting of the slider do?
 
-## What names are generated from each switch setting? 
+The slider changes the image, and the title. The switches change the name. For example, on the increments of 1-19 with switch A on, The switch controls the initial part being 'Ser Alyn Snow', while the slider controls the title being 'The Cursed' and the image displayed 'a wolf.' 
 
-### Using just A
+## What names are generated from each switch setting? written as (name, title, image)
 
-0: Ser Alyn Snow, The Cruel 
+### Using just A:
 
-1-19: Ser Alyn Snow, The Cursed 
+0: Ser Alyn Snow, The Cruel, a sword
 
-20-36: Ser Alyn Snow, The Bloody 
+1-19: Ser Alyn Snow, The Cursed, a wolf
 
-37-99: Ser Alyn Snow, The Absurd 
+20-36: Ser Alyn Snow, The Bloody, a deer
 
-100: Ser Alyn Snow, The Blessed
+37-99: Ser Alyn Snow, The Absurd, a lion
 
-### Using just B 
+100: Ser Alyn Snow, The Blessed, a dragon
 
-0: Maester Harrod, The Cruel 
+### Using just B:
 
-1-19: Maester Harrod, The Cursed 
+0: Maester Harrod, The Cruel, a sword
 
-20-36: Maester Harrod, The Bloody 
+1-19: Maester Harrod, The Cursed, a wolf
 
-37-99: Maester Harrod, The Absurd 
+20-36: Maester Harrod, The Bloody, a deer
 
-100: Maester Harrod, The Blessed
+37-99: Maester Harrod, The Absurd, a lion
 
-### Using neither A or B
+100: Maester Harrod, The Blessed, a dragon
 
-0: Maester Harrod, The Cruel 
+### Using neither A or B:
 
-1-19: Maester Harrod, The Cursed 
+0: Maester Harrod, The Cruel, a sword
 
-20-36: Maester Harrod, The Bloody 
+1-19: Maester Harrod, The Cursed, a wolf
 
-37-99: Maester Harrod, The Absurd 
+20-36: Maester Harrod, The Bloody, a deer
 
-100: Maester Harrod, The Blessed
+37-99: Maester Harrod, The Absurd, a lion
 
-### Using A and B
+100: Maester Harrod, The Blessed, a dragon
 
-0: Queen Osha, The Cruel 
+### Using A and B:
 
-1-19: Queen Osha, The Cursed 
+0: Queen Osha, The Cruel, a sword
 
-20-36: Queen Osha, The Bloody 
+1-19: Queen Osha, The Cursed, a wolf
 
-37-99: Queen Osha, The Absurd 
+20-36: Queen Osha, The Bloody, a deer
 
-100: Queen Osha, The Blessed
+37-99: Queen Osha, The Absurd, a lion
+
+100: Queen Osha, The Blessed, a dragon
 
 
