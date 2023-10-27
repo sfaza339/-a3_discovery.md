@@ -1,14 +1,14 @@
-## Name and mru username
+# Name and mru username
 
 Sarah Fazal
 
 sfaza339
 
-## A brief description of how you approached this discovery.
+# A brief description of how you approached this discovery.
 
 My approach was to start with trying all possibilities of the switches being A, B, A, and B, and neither A nor B. I then discovered that 3 different title name types can be given. I later played around with the slider trying out all the numbers between 1-100. My observations were that there was a set of consecutive numbers that had the same image, name, and title displayed. As I observed changes, I described them in the third part of this assignment. 
 
-## A detailed description of the website behaviour. What does the setting of the slider do?
+# A detailed description of the website behaviour. What does the setting of the slider do?
 
 The slider changes the image, and the title. The switches change the name. For example, on the increments of 1-19 with switch A on, The switch controls the initial part being 'Ser Alyn Snow', while the slider controls the title being 'The Cursed' and the image displayed 'a wolf.' 
 
