@@ -13,27 +13,51 @@ My approach was to start with trying all possibilities of the switches being A, 
 ## What names are generated from each switch setting? 
 
 ### Using just A
+
 0: 
-1-19: 
+
+1-19:
+
 20-36:
+
 37-99:
+
 100:
+
 ### Using just B
+
 0: 
-1-19: 
+
+1-19:
+
 20-36:
+
 37-99:
+
 100:
+
 ### Using A and B
+
 0: 
-1-19: 
+
+1-19:
+
 20-36:
+
 37-99:
+
 100:
+
 ### Using neither A or B
+
 0: 
-1-19: 
+
+1-19:
+
 20-36:
+
 37-99:
+
 100:
+
 ## What does the setting of the slider do?
