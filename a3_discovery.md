@@ -1,6 +1,6 @@
 ## Name and mru username
 
-sarah
+Sarah Fazal
 
 sfaza339
 
