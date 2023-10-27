@@ -6,11 +6,11 @@ sfaza339
 
 # A brief description of how you approached this discovery.
 
-My approach was to start with trying all possibilities of the switches being A, B, A, and B, and neither A nor B. I then discovered that 3 different title name types can be given. I later played around with the slider trying out all the numbers between 1-100. My observations were that there was a set of consecutive numbers that had the same image, name, and title displayed. As I observed changes, I described them in the third part of this assignment. 
+My approach was to start with trying all possibilities of the switches bing A and B. I later played around with the slider trying out all the numbers between 1-100 and noting down the differences between the different uses of switches as well. My observations were that there was a set of consecutive numbers that had the same image, name, and title displayed for one switch, two switches, or no switches. As I observed changes, I described them in the below. 
 
-# A detailed description of the website behaviour. What does the setting of the slider do?
+# What does the setting of the slider do? What do the switches do? 
 
-The slider changes the image, and the title. The switches change the name. For example, on the increments of 1-19 with switch A on, The switch controls the initial part being 'Ser Alyn Snow', while the slider controls the title being 'The Cursed' and the image displayed 'a wolf.' 
+The slider changes the image, and the title while the switches change the name. For example, on the increments of 1-19 with switch A on, The switch controls the initial part being 'Ser Alyn Snow', while the slider controls the title being 'The Cursed' and the image displayed 'a wolf.' 
 
 ## What names are generated from each switch setting? written as (name, title, image)
 
