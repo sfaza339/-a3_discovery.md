@@ -6,7 +6,7 @@ sfaza339
 
 # A brief description of how you approached this discovery.
 
-My approach was to start with trying all possibilities of the switches; A and B. I did 4 different trials with the switches being just A, just B, neither A or B, and lastly, both A and B. I later played around with the slider trying out all the numbers between 1-100 and noting down the differences between the different uses of switches as well. 
+My approach was to start with trying all possibilities of the switches; A and B and I discovered 3 possible names with using my unique mru username. I did 4 different trials with the switches being just A, just B, neither A or B, and lastly, both A and B. I later played around with the slider trying out all the numbers between 1-100 and noting down the differences between the different uses of switches as well. 
 
 # What does the setting of the slider do? What do the switches do? 
 
@@ -14,7 +14,7 @@ The slider changes the image, and the title while the switches change the name. 
 
 # What names are generated from each switch setting? written as (name, title, image)
 
-## Using just A:
+## With A selected:
 
 0: Ser Alyn Snow, The Cruel, a sword
 
@@ -26,7 +26,7 @@ The slider changes the image, and the title while the switches change the name. 
 
 100: Ser Alyn Snow, The Blessed, a dragon
 
-## Using just B:
+## With B selected:
 
 0: Maester Harrod, The Cruel, a sword
 
@@ -38,7 +38,7 @@ The slider changes the image, and the title while the switches change the name. 
 
 100: Maester Harrod, The Blessed, a dragon
 
-## Using neither A or B:
+##  With neither selected:
 
 0: Maester Harrod, The Cruel, a sword
 
@@ -50,7 +50,7 @@ The slider changes the image, and the title while the switches change the name. 
 
 100: Maester Harrod, The Blessed, a dragon
 
-## Using A and B:
+## With A and B selected:
 
 0: Queen Osha, The Cruel, a sword
 
