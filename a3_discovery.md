@@ -17,35 +17,48 @@ My approach was to start with trying all possibilities of the switches being A, 
 
 0: Ser Alyn Snow, The Cruel 
 
-1-19:
+1-19: Ser Alyn Snow, The Cursed 
 
-20-36:
+20-36: Ser Alyn Snow, The Bloody 
 
-37-99:
+37-99: Ser Alyn Snow, The Absurd 
 
-100:
+100: Ser Alyn Snow, The Blessed
 
-### Using just B OR using neither A or B
+### Using just B 
 
 0: Maester Harrod, The Cruel 
 
-1-19:
+1-19: Maester Harrod, The Cursed 
 
-20-36:
+20-36: Maester Harrod, The Bloody 
 
-37-99:
+37-99: Maester Harrod, The Absurd 
 
-100:
+100: Maester Harrod, The Blessed
+
+### Using neither A or B
+
+0: Maester Harrod, The Cruel 
+
+1-19: Maester Harrod, The Cursed 
+
+20-36: Maester Harrod, The Bloody 
+
+37-99: Maester Harrod, The Absurd 
+
+100: Maester Harrod, The Blessed
 
 ### Using A and B
 
 0: Queen Osha, The Cruel 
 
-1-19:
+1-19: Queen Osha, The Cursed 
 
-20-36:
+20-36: Queen Osha, The Bloody 
 
-37-99:
+37-99: Queen Osha, The Absurd 
 
-100:
+100: Queen Osha, The Blessed
+
 
